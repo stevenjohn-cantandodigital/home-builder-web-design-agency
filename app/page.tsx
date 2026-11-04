@@ -193,7 +193,7 @@ export default function HomePage() {
           <article className="expert reveal">
             <div className="expert-photo">
               <img
-                src="/brand/steven-cantando-headshot.webp"
+                src="/brand/steven-cantando-founder.webp"
                 alt="Steven Cantando, founder of cantandoDigital"
                 loading="lazy"
                 decoding="async"

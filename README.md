@@ -36,6 +36,6 @@ Every push to `main` deploys automatically.
 ## Placeholders to replace
 
 - **Pricing** — every `[$ TBD]` / `Setup fee: [TBD]` in `components/Plans.tsx`
-- ~~Founder headshot~~ — done: `public/brand/steven-cantando-headshot.webp`
+- ~~Founder headshot~~ — done: `public/brand/steven-cantando-founder.webp`
 - ~~Logo icon~~ — done: official cantandoDigital mark traced from the animated icon (`components/BrandIcon.tsx`, `public/brand/`)
 - **Stock photos** — free-license Unsplash images in `lib/site.ts`; swap for real project photos when available
