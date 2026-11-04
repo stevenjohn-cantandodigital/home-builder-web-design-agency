@@ -720,7 +720,7 @@ button {
   z-index: -1;
   background:
     radial-gradient(ellipse 70% 55% at 50% 70%, rgba(211, 167, 126, 0.55), transparent 70%),
-    linear-gradient(180deg, transparent 0, transparent 120px, #162342 calc(36vh + 140px), #162443 60%, #3a2c24 100%);
+    linear-gradient(180deg, transparent 0, transparent 120px, #141a2a calc(36vh + 140px), #1c1d26 60%, #3a2c24 100%);
 }
 .showcase-stage {
   position: relative;
@@ -974,7 +974,7 @@ button {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(150deg, rgba(107, 74, 43, 0.6), rgba(36, 67, 83, 0.35) 50%, rgba(123, 181, 213, 0.25));
+  background: linear-gradient(150deg, rgba(107, 74, 43, 0.6), rgba(60, 46, 36, 0.35) 50%, rgba(211, 167, 126, 0.25));
   mix-blend-mode: color;
   pointer-events: none;
 }
@@ -989,7 +989,7 @@ button {
   gap: 14px;
   padding: 14px 16px;
   border-radius: 12px;
-  background: rgba(34, 56, 68, 0.55);
+  background: rgba(56, 42, 30, 0.55);
   border: 1px solid rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -1432,7 +1432,7 @@ button {
   border-radius: var(--radius-lg);
   padding: 140px 24px 120px;
   text-align: center;
-  background: linear-gradient(180deg, #6b4a2b 0%, #2a3150 35%, #131f3a 75%, #10182c 100%);
+  background: linear-gradient(180deg, #6b4a2b 0%, #2e2522 35%, #131f3a 75%, #10182c 100%);
   isolation: isolate;
 }
 .cta-band::before {
